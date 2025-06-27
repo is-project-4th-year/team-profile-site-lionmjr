@@ -75,7 +75,12 @@ Good commit messages are:
 
 ---
 
+## 8. Rebase
+- git rebase <branch> integrates changes from one branch onto another by rewriting commit history.
+- It creates a cleaner, linear project history compared to merge.
+- Useful when syncing your feature branch with the latest main branch changes.
 
+---
 
 ##  Conclusion
 
